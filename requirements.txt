@@ -1,0 +1,5 @@
+pyinstaller
+requests
+colorama
+bs4
+tqdm
